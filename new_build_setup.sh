@@ -5,5 +5,7 @@ mv bashrc ~/.bashrc
 mkdir ~/.config
 mkdir ~/.config/neofetch
 mkdir ~/.config/poshthemes
+mkdir ~/.ssh
 mv neofetch_config.conf ~/.config/neofetch/config.conf
 mv night-owl.omp.json ~/.config/poshthemes/
+mv public_keys ~/.ssh/authorized_keys
