@@ -8,4 +8,4 @@ mkdir ~/.config/poshthemes
 mkdir ~/.ssh
 mv neofetch_config.conf ~/.config/neofetch/config.conf
 mv night-owl.omp.json ~/.config/poshthemes/
-cat public_keys >> .ssh/authorized_keys
+cat public_keys >> ~/.ssh/authorized_keys
